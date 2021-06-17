@@ -1,0 +1,5 @@
+Simba Leao 180 Area1
+Rex Tigre 140 Area2
+Kali Leao 160 Area1
+Tarik Leao 120 Area2
+Joca Tigre 150 Area1

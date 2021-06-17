@@ -1,0 +1,5 @@
+4
+Area1 400 1 Area2 
+Area2 2000 1 Area1 
+Area3 2000 0 
+Area4 1000 0 
